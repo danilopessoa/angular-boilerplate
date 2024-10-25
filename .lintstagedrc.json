@@ -1,0 +1,3 @@
+{
+  "src/**/*.{ts,html,scss,json,js}": ["npm run prettier:fix", "ng-lint-staged lint --fix --"]
+}
